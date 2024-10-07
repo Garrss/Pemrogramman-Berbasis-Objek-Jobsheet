@@ -1,7 +1,7 @@
 package Week6.Trial1;
 
 public class ClassB extends ClassA {
-    private int z;
+    protected int z;
 
     public void setZ(int z) {
         this.z = z;
